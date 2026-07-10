@@ -12,8 +12,10 @@ Extensão de navegador que recarrega automaticamente a página atual em um inter
 
 1. Abra `chrome://extensions` no Chrome (ou o equivalente no Edge/Brave).
 2. Ative o **Modo do desenvolvedor**.
-3. Clique em **Carregar sem compactação** e selecione a pasta do projeto.
-4. Clique no ícone da extensão, defina o intervalo em segundos e clique em **Iniciar**.
+3. Faça o download da extensão.
+4. Faça a extração dos arquivos.
+5. Clique em **Carregar sem compactação** e selecione a pasta do projeto.
+6. Clique no ícone da extensão, defina o intervalo em segundos e clique em **Iniciar**.
 
 ## Estrutura do projeto
 
